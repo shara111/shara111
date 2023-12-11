@@ -10,18 +10,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hara.sss_g" height="30" width="40" />
   </a>
 </p>
-![Sukhman's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shara111&theme=xcode)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shara111&theme=onedark"/>
-</p>
-### Recent GitHub Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shara111&theme=vue"/>
-</p>
+
 
 
 ## About Me
@@ -111,4 +102,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shara111" alt="shara111" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shara111&theme=onedark"/>
+</p>
+### Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shara111&theme=vue"/>
 </p>
