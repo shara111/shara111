@@ -18,9 +18,9 @@
 ## About Me
 - 🔭 I’m currently working on **Personal Projects**
 - 🌱 I’m currently learning **Frontend, Backend, Ios Development**
-- 💬 Ask me about **C++, JavaScript, HTML/CSS, Nodejs, SQL**
+- 💬 Ask me about **C, C++, JavaScript, HTML/CSS, Nodejs, SQL, Django, TypeScript, Next.js/React.js**
 - 📫 How to reach me: **harasukhman@gmail.com, sharavibess@gmail.com**
-- ⚡ Fun fact: **I hate coding :)**
+- ⚡ Fun fact: **Love travelling✈️**
   
   <!-- Add more icons as per your skills here -->
  
