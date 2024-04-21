@@ -21,6 +21,7 @@
 - 💬 Ask me about **C, C++, JavaScript, HTML/CSS, Nodejs, SQL, Django, TypeScript, Next.js/React.js**
 - 📫 How to reach me: **harasukhman@gmail.com, sharavibess@gmail.com**
 - ⚡ Fun fact: **Love travelling✈️**
+- LinkedIn: **www.linkedin.com/in/sukhman-hara-1215602a4**
   
   <!-- Add more icons as per your skills here -->
  
