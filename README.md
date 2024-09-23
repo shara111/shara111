@@ -17,14 +17,13 @@
 
 ## About Me
 - 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **Frontend, Backend, Ios Development**
+- 🌱 I’m currently learning **FullStack, AWS, Data Structures and Algorithms**
 - 💬 Ask me about **C, C++, JavaScript, HTML/CSS, Nodejs, SQL, Django, TypeScript, Next.js/React.js**
 - 📫 How to reach me: **harasukhman@gmail.com, sharavibess@gmail.com**
 - ⚡ Fun fact: **Love travelling✈️**
 - LinkedIn: **www.linkedin.com/in/sukhman-hara-1215602a4**
   
   <!-- Add more icons as per your skills here -->
- 
   ## Languages and Tools:
   <p align="left">
   <!-- Operating Systems -->
