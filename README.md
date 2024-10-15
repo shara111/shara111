@@ -147,13 +147,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shara111" alt="shara111" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shara111&theme=onedark"/>
-</p>
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shara111&theme=vue"/>
-</p>
