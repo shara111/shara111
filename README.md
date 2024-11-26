@@ -12,7 +12,10 @@ I'm an aspiring Software Engineer with a passion for technology and coding. In m
 ---
 
 ### Skills
-Languages: C, C++, HTML, CSS, JavaScript, React, Node.js, Express, TypeScript, Python, Swift, Kotlin
+Operating System: Unix/Linux, Windows, MacOS, Ubuntu, Chrome OS 
+Programming: C, C++, Python, JavaScript, DOM (HTML, CSS),  SQL
+Tools: AWS, Figma, IDEs, Git, GitHub, GitLab, Docker, PowerShell, Python scripts, Visual Studio Code, Xcode, PostgreSQL (PgAdmin), MongoDB (MongoDB Compass), Oracle Database, SQL Server Management Studios, SupaBase Postman, Jira (Agile, Scrum), Slack, Cyclic, Render, Visual Paradigm, SQL Developer, Adobe Creative Suite, MS Office
+Frameworks: Express.js, Node.js, React.js, Next.js, Three.js, Bootstrap, Tailwind CSS,  Django, Jest
 
 ---
 
