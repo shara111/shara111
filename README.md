@@ -1,26 +1,13 @@
-# Hi 👋, I'm Sukhman Hara
+Currently in my third year of a Bachelor of Software Development program, I am enthusiastically diving deep into the world of coding and technology.
 
-## About Me
-I'm an aspiring Software Engineer with a passion for technology and coding. In my third year of a Bachelor of Software Development program, I’m honing my skills and diving deep into various programming languages and tools.
+I enjoy reading books, weight-training, and running. 
 
-- 🔭 Working on personal projects
-- 🌱 Learning Full-Stack Development, AWS, and Data Structures
-- 💬 Reach out to chat about **C, C++, JavaScript, HTML/CSS, Node.js, SQL, Django, TypeScript, Next.js/React.js**
-- 📫 Contact: **harasukhman@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sukhman-hara-1215602a4/) | [Instagram](https://instagram.com/hara.sss_g)
+My professional experiences and extracurriculars cover many different areas of tech.
 
----
+🌟 What Drives Me:
+A relentless curiosity about how technology can solve real-world problems, and making an impact.
 
-### Skills
-Operating System: Unix/Linux, Windows, MacOS, Ubuntu, Chrome OS
-
-## Programming
-Python, Javascript, C, C++, DOM (HTML, CSS), SQL
-
-## Frameworks 
-Express.js, Node.js, React.js, Next.js, Three.js, Bootstrap, Tailwind CSS,  Django, Jest
-
----
+I’m seeking a Summer 2025 Internship.
 
 ### GitHub Stats
 <p align="center">
