@@ -7,7 +7,7 @@ My professional experiences and extracurriculars cover many different areas of t
 🌟 What Drives Me:
 A relentless curiosity about how technology can solve real-world problems, and making an impact.
 
-I’m seeking a Summer 2025 Internship.
+
 
 ### GitHub Stats
 <p align="center">
