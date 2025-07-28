@@ -1,11 +1,8 @@
-Currently in my third year of a Bachelor of Software Development program, I am enthusiastically diving deep into the world of coding and technology.
+Third-year Software Development student at Seneca Polytechnic, entering my final year in Fall 2025. I'm driven by a passion for using tech to solve real-world problems.
 
-I enjoy reading books, weight-training, and running. 
 
-My professional experiences and extracurriculars cover many different areas of tech.
 
-🌟 What Drives Me:
-A relentless curiosity about how technology can solve real-world problems, and making an impact.
+My journey spans hands-on experience with full-stack development, Product Design, cloud infrastructure, and collaborative team projects. When I'm not at my desk, I'm usually reading, lifting weights, running, or listening to music.
 
 
 
