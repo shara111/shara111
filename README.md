@@ -1,4 +1,4 @@
-Third-year Software Development student at Seneca Polytechnic, entering my final year in Fall 2025. I'm driven by a passion for using tech to solve real-world problems.
+Fourth-year Software Development student at Seneca Polytechnic. I'm driven by a passion for using technology to solve real-world problems and building something from scratch.
 
 
 
